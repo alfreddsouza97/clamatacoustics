@@ -208,13 +208,13 @@ export function Navigation() {
             <Link href="/" className="flex items-center space-x-2">
               <Image
                 src="/logo1.png"
-                alt="VL Studios Logo"
+                alt="Clamat Acoustics logo"
                 width={72}
                 height={72}
                 className="w-18 h-18 object-contain"
                 priority
               />
-              <span className="sr-only">VL Studios</span>
+              <span className="sr-only">Clamat Acoustics</span>
             </Link>
           </div>
 
