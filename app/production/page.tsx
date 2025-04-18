@@ -138,7 +138,7 @@ const productionServices = [
     price: "₹750.00",
     duration: "Per Hour",
     icon: <Mic className="w-6 h-6" />,
-    description: "Vocal booth Recording with MXL 990 / AKG220",
+    description: "Vocal booth Recording with Shure SM58 / Scarlett",
     features: [
       "Professional vocal booth",
       "High-quality microphones",
@@ -175,7 +175,7 @@ const productionServices = [
     icon: <Headphones className="w-6 h-6" />,
     description: "Complete vocal recording and mixing package",
     features: [
-      "Recording with MXL 990/AKG220",
+      "Recording with Shure SM58/Scarlett",
       "1 hour recording session",
       "Karaoke/minus Track",
       "Professional mixing",
