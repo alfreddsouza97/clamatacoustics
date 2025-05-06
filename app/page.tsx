@@ -125,6 +125,55 @@ import { Carousel1, Carousel2, Carousel3 } from "@/components/ui/carousel";
 //   },
 // };
 
+// Metadata for Clamat Acoustics
+
+export const metadata = {
+  title: "Clamat Acoustics - Professional Music Production & Recording Studio in Bangalore",
+  description:
+    "Welcome to Clamat Acoustics, a premier music production and recording studio in Bangalore. Offering high-quality recording, mixing, mastering, and music composition services.",
+  keywords: [
+    "music studio Bangalore",
+    "recording studio Bangalore",
+    "mixing and mastering",
+    "music production",
+    "Clamat Acoustics",
+    "audio recording Bangalore",
+    "vocal recording studio",
+    "sound engineering Bangalore",
+    "Bollywood music production",
+    "jam sessions",
+    "top rated music studios in bangalore",
+    "music studio kr puram bangalore",
+    "gerry anthony",
+    "rehearsal space bangalore",
+    "music recording studio bangalore"
+
+  ],
+  authors: [{ name: "Gerry Anthony" }],
+  openGraph: {
+    title: "Clamat Acoustics - Professional Music Studio in Bangalore",
+    description:
+      "Clamat Acoustics delivers top-tier music production, recording, and mixing services. Craft your sound with expert engineers and industry-grade equipment in Bangalore.",
+    url: "https://www.clamatacoustics.com",
+    images: [
+      {
+        url: "https://i.pinimg.com/736x/c4/0f/44/c40f44a04f0f6b8a36a6c3967b6e6f49.jpg",
+        alt: "Clamat Acoustics Studio",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Clamat Acoustics - Music Production & Recording Studio in Bangalore",
+    description:
+      "Record, produce, and mix your music with Clamat Acoustics — Bangalore’s trusted music production studio for artists, content creators, and brands.",
+    images: [
+      "https://i.pinimg.com/1200x/70/7c/d1/707cd1e6e9f48aaefe9b310f63c7ad55.jpg",
+    ],
+  },
+};
+
+
 export default function Home() {
   return (
     <div>
