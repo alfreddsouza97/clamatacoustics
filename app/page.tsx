@@ -139,6 +139,8 @@ export const metadata = {
     "Clamat Acoustics",
     "Clamat Acoustics Music Studio Bangalore",
     "Clamat Acoustics Bangalore",
+    "clamat acoustics bangalore",
+    "clamat acoustics music studio bangalore",
     "Clamat Acoustics KR Puram Bangalore",
     "clamatacoustics",
     "audio recording Bangalore",
