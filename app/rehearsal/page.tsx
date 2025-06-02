@@ -270,7 +270,7 @@ export default function RehearsalPage() {
                         ))}
                       </ul>
                     </div>
-                    <p className="text-xl font-bold">{room.price}</p>
+                    {/* <p className="text-xl font-bold">{room.price}</p> */}
                   </div>
                 </div>
               </div>
