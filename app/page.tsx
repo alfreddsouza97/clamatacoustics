@@ -323,11 +323,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl font-bold mb-6">About Gerry Anthony</h2>
+              <h2 className="text-3xl font-bold mb-6">About Clamat Acoustics</h2>
               <p className="text-muted-foreground mb-6">
-                With years of experience in the music industry, Gerry Anthony brings expertise in music direction,
-                composition, and mixing mastering to Clamat Acoustics. Our state-of-the-art facility in Bangalore
-                is equipped with the latest technology to bring your musical vision to life.
+              Our state-of-the-art facility towards Bangalore East is equipped with the latest technology to bring your musical vision to life. It boasts as being one of the largest studio space and the conducive environment with best in class sound proofing. Our recording studio caters to all your needs, whether you’re a solo music producer, a full-scale rock band or even a string section, across our three rooms we can provide you with a world-class experience in studio recording and music production.
               </p>
               <Link href="/contact">
                 <Button variant="outline">

@@ -303,7 +303,7 @@ export default function LessonsPage() {
                       </li>
                     ))}
                   </ul>
-                  <p className="text-xl font-bold mb-4">{course.price}</p>
+                  {/* <p className="text-xl font-bold mb-4">{course.price}</p> */}
                   <Link href="/contact">
                     <Button className="w-full">Enroll Now</Button>
                   </Link>
