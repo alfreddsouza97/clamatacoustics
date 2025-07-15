@@ -284,10 +284,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold">Email</h3>
                     <a 
-                      href="mailto:info@clamatacoustics.com"
+                      href="mailto:clamat.acoustics@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors duration-200"
                     >
-                      info@clamatacoustics.com
+                      clamat.acoustics@gmail.com
                     </a>
                   </div>
                 </div>

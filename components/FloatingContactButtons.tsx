@@ -36,7 +36,7 @@ export function FloatingContactButtons() {
 
       {/* Email */}
       <a
-        href="mailto:info@clamatacoustics.com"
+        href="mailto:clamat.acoustics@gmail.com"
         className="p-3 rounded-full bg-red-600 text-white shadow-lg hover:bg-red-700 transition"
         title="Send Email"
       >

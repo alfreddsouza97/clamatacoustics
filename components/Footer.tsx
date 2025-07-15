@@ -95,10 +95,10 @@ export function Footer() {
                 <Phone className="h-4 w-4" /> +91 9886110256
               </a>
               <a 
-                href="mailto:info@clamatacoustics.com"
+                href="mailto:clamat.acoustics@gmail.com"
                 className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors duration-200"
               >
-                <Mail className="h-4 w-4" /> info@clamatacoustics.com
+                <Mail className="h-4 w-4" /> clamat.acoustics@gmail.com
               </a>
               <a 
                 href="https://maps.app.goo.gl/m57pYGuEZjsYohFL6"
